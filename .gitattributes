@@ -1,3 +1,2 @@
-*.data filter=lfs diff=lfs merge=lfs -text
-*.wasm filter=lfs diff=lfs merge=lfs -text
+Build/Web_Test1.data filter=lfs diff=lfs merge=lfs -text
 Build/Web_Test1.data.unityweb filter=lfs diff=lfs merge=lfs -text
